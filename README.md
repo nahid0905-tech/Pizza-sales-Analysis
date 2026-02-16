@@ -1,5 +1,17 @@
-# Pizza-sales-Analysis
+# Pizza-Sales-Analysis
 
+* Description
+A dynamic interactive dashboard to explore end-to-end analysis on sales data to identify revenue drivers, top-selling pizzas, peak order hours, and category- wise performance.
+
+* Tech Stack
+  Database: MySQL (Source Data)
+  Programming: Python (Data Prep)
+  Visualization: Power BI (Interactive Trend Reports)
+
+* Problem Statement
+Manual and fragmented sales reporting processes made it difficult to track real-time performance metrics and identify hourly operational trends, leading to delayed decision-making for non-technical stakeholders.
+
+* Key Questions
 Topic 1 : Data Exploration
 
 1. Retrieve the total numbers of orders placed.
@@ -24,4 +36,10 @@ Topic 4 : category Wise Analysis
 1. Find the total quantity of each pizza category ordered.
 2. Find the category wise distribution  of pizzas.
 3. Group the orders by date and calculate the average number of pizzas ordered per day.
+
+* Key Insights & Impact
+Automated the delivery of multi-dimensional executive reports and built a dynamic Power BI dashboard that provided instant visibility into revenue drivers, product performance, and peak operational hours.
+
+* Screenshots
+
 
