@@ -43,5 +43,6 @@ Topic 4 : Category Wise Analysis
 
 * Screenshots - 
 https://github.com/nahid0905-tech/Pizza-sales-Analysis/blob/main/Project_Snapshots.pdf
+Example - ![Dashboard preview](C:\Users\nahid\OneDrive\Pictures\Screenshots\First_Page.png)
 
 
