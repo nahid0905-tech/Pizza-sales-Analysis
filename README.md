@@ -32,7 +32,7 @@ Topic 3 : Operational Insights
 2. Analyze the cumulative revenue generated over time.
 3. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
-Topic 4 : category Wise Analysis
+Topic 4 : Category Wise Analysis
 
 1. Find the total quantity of each pizza category ordered.
 2. Find the category wise distribution  of pizzas.
@@ -42,5 +42,6 @@ Topic 4 : category Wise Analysis
   Automated the delivery of multi-dimensional executive reports and built a dynamic Power BI dashboard that provided instant visibility into revenue drivers, product performance, and peak operational hours.
 
 * Screenshots - 
+https://github.com/nahid0905-tech/Pizza-sales-Analysis/blob/main/Project_Snapshots.pdf
 
 
