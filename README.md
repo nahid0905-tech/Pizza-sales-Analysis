@@ -11,7 +11,8 @@
 * Problem Statement - 
   Manual and fragmented sales reporting processes made it difficult to track real-time performance metrics and identify hourly operational trends, leading to delayed decision-making for non-technical stakeholders.
 
-* Key Questions - 
+* Key Questions -
+  
 Topic 1 : Data Exploration
 
 1. Retrieve the total numbers of orders placed.
